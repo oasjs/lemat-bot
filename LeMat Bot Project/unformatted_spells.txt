@@ -1,0 +1,310 @@
+Absorb Elements1stReactionAbj.SelfXGE
+Alarm1st (rit.)1 Min.Abj.30 feetPHB
+Animal Friendship1stActionEnch.30 feetPHB
+Armor of Agathys1stActionAbj.SelfPHB
+Arms of Hadar1stActionConj.Self (10-foot radius)PHB
+Bane1stActionEnch.×30 feetPHB
+Beast Bond1stActionDivin.×TouchXGE
+Burning Hands1stActionEvoc.Self (15-foot cone)PHB
+Catapult1stActionTrans.60 feetXGE
+Cause Fear1stActionNecro.×60 feetXGE
+Chaos Bolt1stActionEvoc.120 feetXGE
+Charm Person1stActionEnch.30 feetPHB
+Chromatic Orb1stActionEvoc.90 feetPHB
+Color Spray1stActionIllu.Self (15-foot cone)PHB
+Command1stActionEnch.60 feetPHB
+Comprehend Languages1st (rit.)ActionDivin.SelfPHB
+Create or Destroy Water1stActionTrans.30 feetPHB
+Cure Wounds1stActionEvoc.TouchPHB
+Detect Magic1st (rit.)ActionDivin.×SelfPHB
+Detect Poison and Disease1st (rit.)ActionDivin.×SelfPHB
+Disguise Self1stActionIllu.SelfPHB
+Dissonant Whispers1stActionEnch.60 feetPHB
+Distort Value1st1 Min.Illu.TouchAI
+Earth Tremor1stActionEvoc.10 feetXGE
+Ensnaring Strike1stBonusConj.×SelfPHB
+Entangle1stActionConj.×90 feetPHB
+Expeditious Retreat1stBonusTrans.×SelfPHB
+Faerie Fire1stActionEvoc.×60 feetPHB
+False Life1stActionNecro.SelfPHB
+Feather Fall1stReactionTrans.60 feetPHB
+Find Familiar1st (rit.)1 Hr.Conj.10 feetPHB
+Fog Cloud1stActionConj.×120 feetPHB
+Frost Fingers1stActionEvoc.Self (15-foot cone)IDRotF
+Goodberry1stActionTrans.TouchPHB
+Grease1stActionConj.60 feetPHB
+Hail of Thorns1stBonusConj.×SelfPHB
+Healing Word1stBonusEvoc.60 feetPHB
+Hellish Rebuke1stReactionEvoc.60 feetPHB
+Heroism1stActionEnch.×TouchPHB
+Hex1stBonusEnch.×90 feetPHB
+Hunter's Mark1stBonusDivin.×90 feetPHB
+Ice Knife1stActionConj.60 feetXGE
+Identify1st (rit.)1 Min.Divin.TouchPHB
+Illusory Script1st (rit.)1 Min.Illu.TouchPHB
+Jim's Magic Missile1stActionEvoc.120 feetAI
+Jump1stActionTrans.TouchPHB
+Longstrider1stActionTrans.TouchPHB
+Mage Armor1stActionAbj.TouchPHB
+Magic Missile1stActionEvoc.120 feetPHB
+Protection from Evil and Good1stActionAbj.×TouchPHB
+Purify Food and Drink1st (rit.)ActionTrans.10 feetPHB
+Ray of Sickness1stActionNecro.60 feetPHB
+Sanctuary1stBonusAbj.30 feetPHB
+Searing Smite1stBonusEvoc.×SelfPHB
+Shield1stReactionAbj.SelfPHB
+Silent Image1stActionIllu.×60 feetPHB
+Silvery Barbs1stReactionEnch.60 feetSCC
+Sleep1stActionEnch.90 feetPHB
+Snare1st1 Min.Abj.TouchXGE
+Speak with Animals1st (rit.)ActionDivin.SelfPHB
+Tasha's Caustic Brew1stActionEvoc.×Self (30-foot line)TCE
+Tasha's Hideous Laughter1stActionEnch.×30 feetPHB
+Tenser's Floating Disk1st (rit.)ActionConj.30 feetPHB
+Thunderwave1stActionEvoc.Self (15-foot cube)PHB
+Unseen Servant1st (rit.)ActionConj.60 feetPHB
+Witch Bolt1stActionEvoc.×30 feetPHB
+Zephyr Strike1stBonusTrans.×SelfXGE
+
+Aganazzar's Scorcher2ndActionEvoc.30 feetXGE
+Aid2ndActionAbj.30 feetPHB
+Air Bubble2ndActionConj.60 feetAAG
+Alter Self2ndActionTrans.×SelfPHB
+Animal Messenger2nd (rit.)ActionEnch.30 feetPHB
+Arcane Lock2ndActionAbj.TouchPHB
+Augury2nd (rit.)1 Min.Divin.SelfPHB
+Barkskin2ndActionTrans.×TouchPHB
+Beast Sense2nd (rit.)ActionDivin.×TouchPHB
+Blindness/Deafness2ndActionNecro.30 feetPHB
+Blur2ndActionIllu.×SelfPHB
+Borrowed Knowledge2ndActionDivin.SelfSCC
+Calm Emotions2ndActionEnch.×60 feetPHB
+Cloud of Daggers2ndActionConj.×60 feetPHB
+Continual Flame2ndActionEvoc.TouchPHB
+Cordon of Arrows2ndActionTrans.5 feetPHB
+Crown of Madness2ndActionEnch.×120 feetPHB
+Darkness2ndActionEvoc.×60 feetPHB
+Darkvision2ndActionTrans.TouchPHB
+Detect Thoughts2ndActionDivin.×SelfPHB
+Dragon's Breath2ndBonusTrans.×TouchXGE
+Dust Devil2ndActionConj.×60 feetXGE
+Earthbind2ndActionTrans.×300 feetXGE
+Enhance Ability2ndActionTrans.×TouchPHB
+Enlarge/Reduce2ndActionTrans.×30 feetPHB
+Enthrall2ndActionEnch.60 feetPHB
+Find Traps2ndActionDivin.120 feetPHB
+Flame Blade2ndBonusEvoc.×SelfPHB
+Flaming Sphere2ndActionConj.×60 feetPHB
+Gentle Repose2nd (rit.)ActionNecro.TouchPHB
+Gift of Gab2ndReactionEnch.SelfAI
+Gust of Wind2ndActionEvoc.×Self (60-foot line)PHB
+Healing Spirit2ndBonusConj.×60 feetXGE
+Heat Metal2ndActionTrans.×60 feetPHB
+Hold Person2ndActionEnch.×60 feetPHB
+Invisibility2ndActionIllu.×TouchPHB
+Jim's Glowing Coin2ndActionEnch.60 feetAI
+Kinetic Jaunt2ndBonusTrans.×SelfSCC
+Knock2ndActionTrans.60 feetPHB
+Lesser Restoration2ndActionAbj.TouchPHB
+Levitate2ndActionTrans.×60 feetPHB
+Locate Animals or Plants2nd (rit.)ActionDivin.SelfPHB
+Locate Object2ndActionDivin.×SelfPHB
+Magic Mouth2nd (rit.)1 Min.Illu.30 feetPHB
+Magic Weapon2ndBonusTrans.×TouchPHB
+Maximilian's Earthen Grasp2ndActionTrans.×30 feetXGE
+Melf's Acid Arrow2ndActionEvoc.90 feetPHB
+Mind Spike2ndActionDivin.×60 feetXGE
+Mirror Image2ndActionIllu.SelfPHB
+Misty Step2ndBonusConj.SelfPHB
+Moonbeam2ndActionEvoc.×120 feetPHB
+Nathair's Mischief2ndActionIllu.×60 feetFTD
+Nystul's Magic Aura2ndActionIllu.TouchPHB
+Pass without Trace2ndActionAbj.×SelfPHB
+Phantasmal Force2ndActionIllu.×60 feetPHB
+Protection from Poison2ndActionAbj.TouchPHB
+Pyrotechnics2ndActionTrans.60 feetXGE
+Ray of Enfeeblement2ndActionNecro.×60 feetPHB
+Rime's Binding Ice2ndActionEvoc.Self (30-foot cone)FTD
+Rope Trick2ndActionTrans.TouchPHB
+Scorching Ray2ndActionEvoc.120 feetPHB
+See Invisibility2ndActionDivin.SelfPHB
+Shadow Blade2ndBonusIllu.×SelfXGE
+Shatter2ndActionEvoc.60 feetPHB
+Silence2nd (rit.)ActionIllu.×120 feetPHB
+Skywrite2nd (rit.)ActionTrans.×SightXGE
+Snilloc's Snowball Swarm2ndActionEvoc.90 feetXGE
+Spider Climb2ndActionTrans.×TouchPHB
+Spike Growth2ndActionTrans.×150 feetPHB
+Suggestion2ndActionEnch.×30 feetPHB
+Summon Beast2ndActionConj.×90 feetTCE
+Tasha's Mind Whip2ndActionEnch.90 feetTCE
+Vortex Warp2ndActionConj.90 feetSCC
+Warding Wind2ndActionEvoc.×SelfXGE
+Web2ndActionConj.×60 feetPHB
+Wither and Bloom2ndActionNecro.60 feetSCC
+Zone of Truth2ndActionEnch.60 feetPHB
+
+Animate Dead3rd1 Min.Necro.10 feetPHB
+Ashardalon's Stride3rdBonusTrans.×SelfFTD
+Aura of Vitality3rdActionEvoc.×Self (30-foot radius)PHB
+Bestow Curse3rdActionNecro.×TouchPHB
+Blink3rdActionTrans.SelfPHB
+Call Lightning3rdActionConj.×120 feetPHB
+Catnap3rdActionEnch.30 feetXGE
+Clairvoyance3rd10 Min.Divin.×1 milePHB
+Conjure Animals3rdActionConj.×60 feetPHB
+Conjure Barrage3rdActionConj.Self (60-foot cone)PHB
+Counterspell3rdReactionAbj.60 feetPHB
+Create Food and Water3rdActionConj.30 feetPHB
+Daylight3rdActionEvoc.60 feetPHB
+Dispel Magic3rdActionAbj.120 feetPHB
+Elemental Weapon3rdActionTrans.×TouchPHB
+Enemies Abound3rdActionEnch.×120 feetXGE
+Erupting Earth3rdActionTrans.120 feetXGE
+Fast Friends3rdActionEnch.×30 feetAI
+Fear3rdActionIllu.×Self (30-foot cone)PHB
+Feign Death3rd (rit.)ActionNecro.TouchPHB
+Fireball3rdActionEvoc.150 feetPHB
+Flame Arrows3rdActionTrans.×TouchXGE
+Fly3rdActionTrans.×TouchPHB
+Gaseous Form3rdActionTrans.×TouchPHB
+Glyph of Warding3rd1 Hr.Abj.TouchPHB
+Haste3rdActionTrans.×30 feetPHB
+Hunger of Hadar3rdActionConj.×150 feetPHB
+Hypnotic Pattern3rdActionIllu.×120 feetPHB
+Incite Greed3rdActionEnch.×30 feetAI
+Intellect Fortress3rdActionAbj.×30 feetTCE
+Leomund's Tiny Hut3rd (rit.)1 Min.Evoc.Self (10-foot-radius hemisphere)PHB
+Life Transference3rdActionNecro.30 feetXGE
+Lightning Arrow3rdBonusTrans.×SelfPHB
+Lightning Bolt3rdActionEvoc.Self (100-foot line)PHB
+Magic Circle3rd1 Min.Abj.10 feetPHB
+Major Image3rdActionIllu.×120 feetPHB
+Mass Healing Word3rdBonusEvoc.60 feetPHB
+Meld into Stone3rd (rit.)ActionTrans.TouchPHB
+Melf's Minute Meteors3rdActionEvoc.×SelfXGE
+Motivational Speech3rd1 Min.Ench.60 feetAI
+Nondetection3rdActionAbj.TouchPHB
+Phantom Steed3rd (rit.)1 Min.Illu.30 feetPHB
+Plant Growth3rdActionTrans.150 feetPHB
+Protection from Energy3rdActionAbj.×TouchPHB
+Remove Curse3rdActionAbj.TouchPHB
+Revivify3rdActionNecro.TouchPHB
+Sending3rdActionEvoc.UnlimitedPHB
+Sleet Storm3rdActionConj.×150 feetPHB
+Slow3rdActionTrans.×120 feetPHB
+Speak with Dead3rdActionNecro.10 feetPHB
+Speak with Plants3rdActionTrans.Self (30-foot radius)PHB
+Spirit Shroud3rdBonusNecro.×SelfTCE
+Stinking Cloud3rdActionConj.×90 feetPHB
+Summon Fey3rdActionConj.×90 feetTCE
+Summon Lesser Demons3rdActionConj.×60 feetXGE
+Summon Shadowspawn3rdActionConj.×90 feetTCE
+Summon Undead3rdActionNecro.×90 feetTCE
+Thunder Step3rdActionConj.90 feetXGE
+Tidal Wave3rdActionConj.120 feetXGE
+Tiny Servant3rd1 Min.Trans.TouchXGE
+Tongues3rdActionDivin.TouchPHB
+Vampiric Touch3rdActionNecro.×SelfPHB
+Wall of Sand3rdActionEvoc.×90 feetXGE
+Wall of Water3rdActionEvoc.×60 feetXGE
+Water Breathing3rd (rit.)ActionTrans.30 feetPHB
+Water Walk3rd (rit.)ActionTrans.30 feetPHB
+Wind Wall3rdActionEvoc.×120 feetPHB
+
+Arcane Eye4thActionDivin.×30 feetPHB
+Banishment4thActionAbj.×60 feetPHB
+Blight4thActionNecro.30 feetPHB
+Charm Monster4thActionEnch.30 feetXGE
+Compulsion4thActionEnch.×30 feetPHB
+Confusion4thActionEnch.×90 feetPHB
+Conjure Minor Elementals4th1 Min.Conj.×90 feetPHB
+Conjure Woodland Beings4thActionConj.×60 feetPHB
+Control Water4thActionTrans.×300 feetPHB
+Dimension Door4thActionConj.500 feetPHB
+Divination4th (rit.)ActionDivin.SelfPHB
+Dominate Beast4thActionEnch.×60 feetPHB
+Elemental Bane4thActionTrans.×90 feetXGE
+Evard's Black Tentacles4thActionConj.×90 feetPHB
+Fabricate4th10 Min.Trans.120 feetPHB
+Fire Shield4thActionEvoc.SelfPHB
+Freedom of Movement4thActionAbj.TouchPHB
+Giant Insect4thActionTrans.×30 feetPHB
+Grasping Vine4thBonusConj.×30 feetPHB
+Greater Invisibility4thActionIllu.×TouchPHB
+Guardian of Nature4thBonusTrans.×SelfXGE
+Hallucinatory Terrain4th10 Min.Illu.300 feetPHB
+Ice Storm4thActionEvoc.300 feetPHB
+Leomund's Secret Chest4thActionConj.TouchPHB
+Locate Creature4thActionDivin.×SelfPHB
+Mordenkainen's Faithful Hound4thActionConj.30 feetPHB
+Mordenkainen's Private Sanctum4th10 Min.Abj.120 feetPHB
+Otiluke's Resilient Sphere4thActionEvoc.×30 feetPHB
+Phantasmal Killer4thActionIllu.×120 feetPHB
+Polymorph4thActionTrans.×60 feetPHB
+Raulothim's Psychic Lance4thActionEnch.120 feetFTD
+Shadow of Moil4thActionNecro.×SelfXGE
+Sickening Radiance4thActionEvoc.×120 feetXGE
+Stone Shape4thActionTrans.TouchPHB
+Stoneskin4thActionAbj.×TouchPHB
+Storm Sphere4thActionEvoc.×150 feetXGE
+Summon Aberration4thActionConj.×90 feetTCE
+Summon Construct4thActionConj.×90 feetTCE
+Summon Elemental4thActionConj.×90 feetTCE
+Summon Greater Demon4thActionConj.×60 feetXGE
+Vitriolic Sphere4thActionEvoc.150 feetXGE
+Wall of Fire4thActionEvoc.×120 feetPHB
+Watery Sphere4thActionConj.×90 feetXGE
+
+Animate Objects5thActionTrans.×120 feetPHB
+Antilife Shell5thActionAbj.×Self (10-foot radius)PHB
+Awaken5th8 Hr.Trans.TouchPHB
+Bigby's Hand5thActionEvoc.×120 feetPHB
+Cloudkill5thActionConj.×120 feetPHB
+Commune with Nature5th (rit.)1 Min.Divin.SelfPHB
+Cone of Cold5thActionEvoc.Self (60-foot cone)PHB
+Conjure Elemental5th1 Min.Conj.×90 feetPHB
+Conjure Volley5thActionConj.150 feetPHB
+Contact Other Plane5th (rit.)1 Min.Divin.SelfPHB
+Contagion5thActionNecro.TouchPHB
+Control Winds5thActionTrans.×300 feetXGE
+Create Spelljamming Helm5thActionTrans.TouchAAG
+Creation5th1 Min.Illu.30 feetPHB
+Danse Macabre5thActionNecro.×60 feetXGE
+Dawn5thActionEvoc.×60 feetXGE
+Dominate Person5thActionEnch.×60 feetPHB
+Dream5th1 Min.Illu.SpecialPHB
+Enervation5thActionNecro.×60 feetXGE
+Far Step5thBonusConj.×SelfXGE
+Geas5th1 Min.Ench.60 feetPHB
+Greater Restoration5thActionAbj.TouchPHB
+Hold Monster5thActionEnch.×90 feetPHB
+Immolation5thActionEvoc.×90 feetXGE
+Infernal Calling5th1 Min.Conj.×90 feetXGE
+Insect Plague5thActionConj.×300 feetPHB
+Legend Lore5th10 Min.Divin.SelfPHB
+Maelstrom5thActionEvoc.×120 feetXGE
+Mass Cure Wounds5thActionEvoc.60 feetPHB
+Mislead5thActionIllu.×SelfPHB
+Modify Memory5thActionEnch.×30 feetPHB
+Negative Energy Flood5thActionNecro.60 feetXGE
+Passwall5thActionTrans.30 feetPHB
+Planar Binding5th1 Hr.Abj.60 feetPHB
+Raise Dead5th1 Hr.Necro.TouchPHB
+Rary's Telepathic Bond5th (rit.)ActionDivin.30 feetPHB
+Reincarnate5th1 Hr.Trans.TouchPHB
+Scrying5th10 Min.Divin.×SelfPHB
+Seeming5thActionIllu.30 feetPHB
+Skill Empowerment5thActionTrans.×TouchXGE
+Steel Wind Strike5thActionConj.30 feetXGE
+Summon Draconic Spirit5thActionConj.×60 feetFTD
+Swift Quiver5thBonusTrans.×TouchPHB
+Synaptic Static5thActionEnch.120 feetXGE
+Telekinesis5thActionTrans.×60 feetPHB
+Teleportation Circle5th1 Min.Conj.10 feetPHB
+Transmute Rock5thActionTrans.120 feetXGE
+Tree Stride5thActionConj.×SelfPHB
+Wall of Force5thActionEvoc.×120 feetPHB
+Wall of Light5thActionEvoc.×120 feetXGE
+Wall of Stone5thActionEvoc.×120 feetPHB
+Wrath of Nature5thActionEvoc.×120 feetXGE
